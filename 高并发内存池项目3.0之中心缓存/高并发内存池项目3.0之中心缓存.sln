@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "高并发内存池项目3.0之中心缓存", "高并发内存池项目3.0之中心缓存\高并发内存池项目3.0之中心缓存.vcxproj", "{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Debug|x64.ActiveCfg = Debug|x64
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Debug|x64.Build.0 = Debug|x64
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Debug|x86.Build.0 = Debug|Win32
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Release|x64.ActiveCfg = Release|x64
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Release|x64.Build.0 = Release|x64
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Release|x86.ActiveCfg = Release|Win32
+		{AB880125-BCB1-40DB-93ED-C6A1B0F6C8B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B59E0A-0D3C-440D-8FFD-757E608A7FA8}
+	EndGlobalSection
+EndGlobal
